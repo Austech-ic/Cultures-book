@@ -1,0 +1,10 @@
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "name": "symfony/filesystem",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=8.1",
+        "webmozart/assert": "1.*"
+    }
+}
